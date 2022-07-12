@@ -1,0 +1,14 @@
+9aae729 (HEAD -> master) Revert "添加了 jQuery 2.1.1"
+cd2d265 添加了 jQuery 2.1.1
+67797e4 添加了 Bootstrap 框架
+c4f0d81 恢复了 index.html
+50a6695 删除 index.html
+38967ca 删除了 .\assert\css\shke-theme.css 样式表
+328044d 将 css 目录移动至 assert 目录下
+0e3ff9e 将 shke-theme.css 移动至 css 目录下
+0048ace 将 theme.css 重命名为 shke-theme.css
+64388e3 把 style.css 命名为 theme.css
+0b3dcfb 添加 style.css 样式表
+fe2d86b 注释了 index.html 的 meta 标签
+2b69b72 修改了 index.html 的 lang 属性为 zh-hans
+753d23d 添加 index.html 文件
